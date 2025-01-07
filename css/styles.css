@@ -91,3 +91,7 @@ footer p {
 a {
     color: #ffffff;
 }
+
+ul li {
+    margin-bottom: 12px; /* Aggiungi uno spazio tra gli elementi della lista */
+}
