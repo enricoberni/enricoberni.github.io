@@ -81,8 +81,3 @@ footer p {
     margin: 10px 0; /* Aggiungi margini attorno alle formule */
     text-align: center; /* Allinea le formule al centro */
 }
-
-/* Aggiungi uno stile per le formule LaTeX */
-.mathjax-inline {
-    font-size: 1.1em; /* Modifica la dimensione per le formule inline */
-}
