@@ -7,9 +7,9 @@ body {
     padding: 0;
 }
 
-/* Header */
+/* Header con colore più scuro per il contrasto */
 header {
-    background-color: #2f3b4e; /* Grigioblu */
+    background-color: #1a232e; /* Blu molto scuro per l'header */
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -61,7 +61,7 @@ main {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #2f3b4e; /* Grigioblu */
+    background-color: #1a232e; /* Blu molto scuro per il footer */
     color: white;
 }
 
