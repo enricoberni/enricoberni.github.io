@@ -16,12 +16,12 @@ header {
     color: white;
     padding: 10px 0;
     text-align: center;
+    position: relative;
 }
 
 header h1 {
     margin: 0;
     font-size: 36px; /* Dimensione maggiore per il nome */
-    position: relative;
 }
 
 /* Navigazione */
