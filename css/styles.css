@@ -85,7 +85,6 @@ footer p {
 /* Aggiungi uno stile per le formule LaTeX */
 .mathjax-inline {
     font-size: 1.1em; /* Modifica la dimensione per le formule inline */
-    background-color: #f4f4f4; /* Aggiungi un leggero sfondo per migliorare la visibilità */
     padding: 2px 5px; /* Aggiungi un po' di spazio intorno alla formula */
     border-radius: 3px; /* Arrotonda gli angoli */
 }
