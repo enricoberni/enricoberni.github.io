@@ -41,6 +41,10 @@ nav ul li a {
     font-size: 18px;
 }
 
+nav ul li a:hover {
+    background-color: #444d5b;
+}
+
 /* Selettore della lingua */
 .language-selector a {
     margin: 0 10px;
