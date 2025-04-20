@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.24)  26 MAR 2025 08:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.24)  20 APR 2025 11:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/enrico/Public/me/cv/CVeng.tex
-(/home/enrico/Public/me/cv/CVeng.tex
+**/home/enrico/Public/enricoberni.github.io/cv/CVeng.tex
+(/home/enrico/Public/enricoberni.github.io/cv/CVeng.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -684,15 +684,15 @@ LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <34> not available
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 27.
 
-Underfull \hbox (badness 1194) in paragraph at lines 46--46
-[]|\T1/cmss/bx/n/12 (+20) Geometry and Topol-ogy sem-i-nar cy-cle "Sem-i-nari dei baby-
- []
-
-
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
+Underfull \hbox (badness 1194) in paragraph at lines 47--47
+[]|\T1/cmss/bx/n/12 (+20) Geometry and Topol-ogy sem-i-nar cy-cle "Sem-i-nari dei baby-
+ []
+
+
 
 [2] (./CVeng.aux)
  ***********
@@ -708,15 +708,15 @@ Package rerunfilecheck Info: File `CVeng.out' has not changed.
 (rerunfilecheck)             Checksum: 7C1B7A2637BBBE5315784C08EE4288B6;635.
  ) 
 Here is how much of TeX's memory you used:
- 27313 strings out of 474512
- 518814 string characters out of 5749244
+ 27315 strings out of 474512
+ 518891 string characters out of 5749244
  947352 words of memory out of 5000000
  49869 multiletter control sequences out of 15000+600000
- 575940 words of font info for 92 fonts, out of 8000000 for 9000
+ 576029 words of font info for 93 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
- 129i,12n,129p,1028b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,12n,129p,1047b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsi2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss3583.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb>
-Output written on CVeng.pdf (2 pages, 145756 bytes).
+Output written on CVeng.pdf (2 pages, 145939 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream

@@ -1,7 +1,7 @@
-PWD /home/enrico/Public/me/cv
+PWD /home/enrico/Public/enricoberni.github.io/cv
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/enrico/Public/me/cv/CV.tex
+INPUT /home/enrico/Public/enricoberni.github.io/cv/CV.tex
 OUTPUT CV.log
 INPUT /usr/share/texmf-dist/tex/latex/moderncv/moderncv.cls
 INPUT /usr/share/texmf-dist/tex/latex/moderncv/moderncv.cls
