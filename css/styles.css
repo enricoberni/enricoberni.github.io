@@ -65,6 +65,10 @@ nav ul li a:hover {
 
 }
 
+p {
+ line-height: 1.6;
+}
+
 .language-selector a:hover {
     background-color: #444d5b;
 }
@@ -72,6 +76,10 @@ nav ul li a:hover {
 /* Sezione principale */
 main {
     padding: 20px;
+     margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 500px;
     flex: 1; /* Questo fa sì che la sezione principale occupi tutto lo spazio disponibile */
 }
 
@@ -94,4 +102,21 @@ a {
 
 ul li {
     margin-bottom: 12px; /* Aggiungi uno spazio tra gli elementi della lista */
+}
+
+/* Immagini */
+.image-container {
+  display: flex;
+  justify-content: center;   /* horizontal centering */
+  align-items: center;       /* vertical centering */
+  height: 300px;             /* adjust as needed */
+  background-color: transparent; /* just for contrast */
+  overflow: hidden;
+}
+
+.image-container img {
+    height: 250px;
+    width: auto;
+  object-fit: contain; /* keeps aspect ratio */
+  margin-right: 30px;
 }
