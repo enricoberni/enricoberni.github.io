@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.24)  10 JUN 2025 09:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.3.24)  22 JUL 2025 11:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -699,21 +699,21 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.83pt have occurred.
 
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 8A52D2D691384DD16D07A7C9157355E6;684.
+(rerunfilecheck)             Checksum: 230776E891D4D2270A45B53B90353A3C;948.
  ) 
 Here is how much of TeX's memory you used:
- 27397 strings out of 474512
- 519792 string characters out of 5749244
- 950954 words of memory out of 5000000
- 49945 multiletter control sequences out of 15000+600000
+ 27401 strings out of 474512
+ 519836 string characters out of 5749244
+ 947954 words of memory out of 5000000
+ 49947 multiletter control sequences out of 15000+600000
  576344 words of font info for 96 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
  129i,12n,129p,1044b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsi2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss3583.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb>
-Output written on CV.pdf (2 pages, 145277 bytes).
+Output written on CV.pdf (2 pages, 145560 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 28725 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 28741 words of extra memory for PDF output out of 29859 (max. 10000000)
 
