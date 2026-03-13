@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1773417334.12807 "/home/enrico/Public/enricoberni.github.io/cv/CVeng.tex" "CVeng.pdf" "CVeng" 1773417334.6618 0
-  "/home/enrico/Public/enricoberni.github.io/cv/CVeng.tex" 1773417334.03473 6638 1394ac38909fd8704c6076b6bbfdebe1 ""
+["pdflatex"] 1773417488.89946 "/home/enrico/Public/enricoberni.github.io/cv/CVeng.tex" "CVeng.pdf" "CVeng" 1773417489.48177 0
+  "/home/enrico/Public/enricoberni.github.io/cv/CVeng.tex" 1773417488.27904 6497 60108e7403c0f0c177311283493310aa ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1772820570 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1772820570 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1772820570 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -10,7 +10,6 @@
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecsi1095.tfm" 1772820570 3584 1a0353d13d3e702865b76e3b1c321b5b ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecsi1200.tfm" 1772820570 3584 76f906ed3d5c5ef20a2687ba265e1ef9 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecsi2074.tfm" 1772820570 3584 b978223113072930461c5386f7b173ff ""
-  "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecss0800.tfm" 1772820570 3584 885a9b5d0df19657ad7066a0c4430437 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecss1095.tfm" 1772820570 3584 8ece407347b270c252c46fdfaef5a9ef ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecss1200.tfm" 1772820570 3584 db562fb1d1c474cc55f0ce8a1dd94fe7 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecss1728.tfm" 1772820570 3584 18bb954c8c3b95c57368f4d9f3439ce6 ""
@@ -43,7 +42,6 @@
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb" 1772820570 106965 72348192f7f7f7c44b4558f2996b4879 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb" 1772820570 104587 af18095d6ceabc726cee1b26fbfa2cd3 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfsi2074.pfb" 1772820570 96650 8d0d40cb0cfc0c2eba042a528051d0ab ""
-  "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb" 1772820570 95441 e322369dec2b43bb317c506a4a44deaa ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb" 1772820570 97272 e31c1319e3ff43b442c57e2c8f2acc52 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb" 1772820570 95792 fb800ffa2babe7bd5fafc1817d8f1313 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb" 1772820570 91468 74533647d615f4cea328e39d71fe88e4 ""
@@ -202,9 +200,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1772820570 43569 fd570f2fa160877d211e859f687312ba ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1772902262 5386252 004b52fbb89e6457023b6dca3398839c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1772902205 4023953 ca352f2a3e324c226ba59e28b72fa11b ""
-  "CVeng.aux" 1773417334.59927 1106 837ed4f4ee407a5b3dbd9a5029cfb867 "pdflatex"
-  "CVeng.out" 1773417334.59927 960 031fbb6e3314d294a9b5edc72b45ed8e "pdflatex"
-  "CVeng.tex" 1773417334.03473 6638 1394ac38909fd8704c6076b6bbfdebe1 ""
+  "CVeng.aux" 1773417489.41403 1099 aae0d2891c00e64a4585d302d958efb4 "pdflatex"
+  "CVeng.out" 1773417489.41503 922 1c07d2eebc8a779d29992b03b822b2fc "pdflatex"
+  "CVeng.tex" 1773417488.27904 6497 60108e7403c0f0c177311283493310aa ""
   (generated)
   "CVeng.aux"
   "CVeng.log"
