@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1775776810.83353 "/home/enrico/Public/enricoberni.github.io/cv/CV.tex" "CV.pdf" "CV" 1775776811.34982 0
-  "/home/enrico/Public/enricoberni.github.io/cv/CV.tex" 1775776810.73522 5589 5f6323b7c4a04f64aaf177a82ef3405e ""
+["pdflatex"] 1775776895.24744 "/home/enrico/Public/enricoberni.github.io/cv/CV.tex" "CV.pdf" "CV" 1775776895.7624 0
+  "/home/enrico/Public/enricoberni.github.io/cv/CV.tex" 1775776895.15332 5574 5656e695475f8fe9c5de085d7d89e0ea ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1775415801 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1775415801 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm" 1775415801 3584 291a5713401683441e0a8c8f4417b17b ""
@@ -179,9 +179,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1775415801 43569 fd570f2fa160877d211e859f687312ba ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775520747 5386252 004b52fbb89e6457023b6dca3398839c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775520728 4023955 18373236249bdd280c1e06524e531bf0 ""
-  "CV.aux" 1775776811.29582 953 084ad56c02d800d9815042851779fe22 "pdflatex"
-  "CV.out" 1775776811.29582 832 74349f1b96c1f6603f4f136706fac502 "pdflatex"
-  "CV.tex" 1775776810.73522 5589 5f6323b7c4a04f64aaf177a82ef3405e ""
+  "CV.aux" 1775776895.70927 953 084ad56c02d800d9815042851779fe22 "pdflatex"
+  "CV.out" 1775776895.71027 832 74349f1b96c1f6603f4f136706fac502 "pdflatex"
+  "CV.tex" 1775776895.15332 5574 5656e695475f8fe9c5de085d7d89e0ea ""
   (generated)
   "CV.aux"
   "CV.log"
